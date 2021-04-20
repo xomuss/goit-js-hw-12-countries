@@ -18,3 +18,12 @@ body {
    */
   background-image: url('./images/bg-pattern.png');
 }
+
+.card-container {
+  display: flex;
+}
+.container-flag {
+  height: 100px;
+  width: 100px;
+  border-color: black;
+}
